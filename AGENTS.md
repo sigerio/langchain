@@ -1,2 +1,4 @@
-- 当前仓库是用于学习`langchain`例程的仓库，所有回答都得建立在官方教程的基础上
-- 当我询问 `xxx是什么意思` `xxx怎么理解` `xxx功能是什么`，应在回答的同时，主动读取 `note.md` 中的 `记录规则` ，并根据要求进行记录
+- 当前仓库是用于学习 `LangChain` 与 `LangGraph` 官方教程例程的仓库，所有回答都得建立在官方教程的基础上
+- 当我询问 `xxx是什么意思` `xxx怎么理解` `xxx功能是什么` 时，应在回答的同时，按当前主题主动读取对应笔记中的 `记录规则` 并根据要求进行记录
+- `LangChain` 主题记录到 `notes/langchain-note.md`
+- `LangGraph` 主题记录到 `notes/langgraph-note.md`
